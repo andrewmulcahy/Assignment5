@@ -1,28 +1,22 @@
 {
-	"my_degrees": [
+	"degree": [
 		{
-			"degree":{
-				"school": "University of Connecticut",
-				"major": "Business Administration",
-				"type": "BS",
-				"year": 2017
-			}
+			"school": "University of Connecticut",
+			"major": "Business Administration",
+			"type": "BS",
+			"year": 2017
 		},
 		{
-			"degree":{
-				"school": "Boston University",
-				"major": "Computer Information Systems",
-				"type": "MS",
-				"year": 2020
-			}	
+			"school": "Boston University",
+			"major": "Computer Information Systems",
+			"type": "MS",
+			"year": 2020
 		},
 		{
-			"degree":{
-				"school": "Indiana University",
-				"major": "Business Administration",
-				"type": "MBA",
-				"year": 2022
-			}		
-		}
+			"school": "Indiana University",
+			"major": "Business Administration",
+			"type": "MBA",
+			"year": 2022
+		}		
 	]
 }
